@@ -1,5 +1,3 @@
-# My Terminal Message
-
 ## Run
 
 1. Install [Python 3](https://www.python.org/downloads/) (Windows: tick "Add Python to PATH").
