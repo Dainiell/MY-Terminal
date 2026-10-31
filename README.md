@@ -1,6 +1,4 @@
-# Blinking ASCII Eye
-
-Colored terminal ASCII art with a blinking eye.
+# My Terminal Message
 
 ## Run
 
